@@ -1,0 +1,7 @@
+000001 English 1 32 optional Catty 3 18 18:30-19:20 1-001 80 0 book Good.
+000002 Java 3 16 optional Wolf 4 18 13:30-14:20 2-002 80 79 book Good.
+000003 C 2 16 optional Tiger 3 15 14:30-15:20 1-003 100 98 book Good.
+000004 DataBase 3 32 optional Bird 3 18 08:00-08:50 1-002 80 79 book Good.
+000005 AdvancedMath 4 32 optional Lion 3 18 09:00-09:50 1-002 80 80 It+can+improve+your+ability Good.
+000006 Chemistry 4 32 optional Bird 3 18 19:30-20:20 1-002 80 79 book Good.
+000007 WorldHistory 2 32 optional Catty 2 11 13:30-14:20 1-101 80 78 good+textbook! good+course!
